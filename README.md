@@ -6,11 +6,11 @@
 
 ### Problem Domain
 
-Concise Description of why this app exists
+- **Lab 26 - RESTy:** Create a RESTy application which will peform RESTful API calls to remote APIs.
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/rkgallaway/server-deployment-practice-d51/actions)
+- [GitHub Actions ci/cd](https://github.com/DocHolliday13x/resty/actions/)
 <!-- - [back-end server url](http://xyz.com) (when applicable)
 - [front-end application](http://xyz.com) (when applicable) -->
 
@@ -21,13 +21,22 @@ Concise Description of why this app exists
 
 ### Setup
 
+1. Create a react app named resty w/ `npx create-react-app resty`
+2. Create a new repository on GitHub for this project
+3. Push your initial commit to GitHub
+4. Set up your folder structure
+5. Create a `README.md` file with an overview of your project and notes about your lab
+6. Create a pull request from the resty branch to your main branch
+7. In Canvas, submit a link to your pull request
+8. On GitHub, submit a link to your deployed application to the main branch of your repository
+
 #### `.env` requirements (where applicable)
 
-for now I have none and do not require one
+For now I have none and do not require one.
 
 #### How to initialize/run your application (where applicable)
 
-- e.g. `npm start`
+- Initialize applicaton with `npm start`
 
 #### How to use your library (where applicable)
 
@@ -42,6 +51,8 @@ for now I have none and do not require one
 - Any tests of note?
 - Describe any tests that you did not complete, skipped, etc
 
+- **Lab 26 Tests:** Tests are not required for this lab
+
 #### UML
 
-- ![Lab 26 Whiteboard]()
+- ![Lab 26 Whiteboard](./resty/public/lab26Whiteboard.png)
