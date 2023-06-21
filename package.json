@@ -6,8 +6,8 @@
     "uuid": "^9.0.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "npm start",
+    "build": "npm build",
     "test": "react-scripts test --verbose --coverage",
     "eject": "react-scripts eject"
   },
